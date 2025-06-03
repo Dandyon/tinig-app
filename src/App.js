@@ -275,7 +275,7 @@ const HomePage = ({ navigateTo, userName }) => {
     { name: 'Lawyer Directory & Paid Advice', icon: 'https://cdn-icons-png.flaticon.com/128/4185/4185489.png', page: 'findLawyer', bgColor: 'bg-green-50' },
     { name: 'Legal Advice Chat (AI)', icon: 'https://cdn-icons-png.flaticon.com/128/589/589708.png', page: 'aiChat', bgColor: 'bg-amber-50' },
     { name: 'Document Creator', icon: 'https://cdn-icons-png.flaticon.com/128/9746/9746449.png', page: 'documentCreator', bgColor: 'bg-pink-50' },
-    { name: 'Filing Guidance', icon: 'https://cdn-icons-png.flaticon.com/128/3767/3767084.png', page: 'filingGuidance', bgColor: 'bg-purple-50' },
+    { name: 'File or Submit a Case', icon: 'https://cdn-icons-png.flaticon.com/128/3767/3767084.png', page: 'filingGuidance', bgColor: 'bg-purple-50' },
   ];
   return (
     <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
