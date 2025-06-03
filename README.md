@@ -73,7 +73,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project Structure 🏗️
 
-[Provide an overview of your project's directory structure here.]
+public/
+    ├── favicon.ico
+    ├── index.html
+    ├── logo192.png
+    ├── logo512.png
+    ├── manifest.json
+    └── robots.txt
+src/
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    ├── reportWebVitals.js
+    └── setupTests.js
+.gitignore
+package-lock.json
+package.json
+postcss.config.js
+README.md
+tailwind.config.js
 
 -----
 
