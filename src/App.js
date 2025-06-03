@@ -225,7 +225,6 @@ const OnboardingPage = ({ navigateTo, setLanguage, handleLogin }) => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-white p-4">
       <div className="w-full max-w-sm text-center">
         <img src="https://i.ibb.co/S7cbYr42/494815470-1741268933263234-6484197541983849434-n.jpg" alt="TINIG Logo" className="mx-auto mb-6 h-32 w-auto rounded-lg shadow-md object-cover" onError={(e) => { e.target.onerror = null; e.target.src="https://placehold.co/150x150/007BFF/FFFFFF?text=Logo"; }} />
-        <h1 className="text-3xl font-bold text-gray-800 mb-2">TINIG</h1>
         <p className="text-gray-600 mb-8 px-4">Truth, Inclusion, Narrative, Integrity, and Guidance</p>
         <div className="mb-8">
           <h2 className="text-lg font-medium text-gray-700 mb-3">Language</h2>
