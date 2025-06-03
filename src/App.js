@@ -224,9 +224,9 @@ const OnboardingPage = ({ navigateTo, setLanguage, handleLogin }) => {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-white p-4">
       <div className="w-full max-w-sm text-center">
-        <img src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxlZ2FsJTIwYXBwJTIwbG9nb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=150&h=150&q=80" alt="TINIG Logo" className="mx-auto mb-6 h-32 w-auto rounded-lg shadow-md object-cover" onError={(e) => { e.target.onerror = null; e.target.src="https://placehold.co/150x150/007BFF/FFFFFF?text=Logo"; }} />
+        <img src="https://drive.google.com/file/d/1sAUTfo6oxucQ9cqMzus2FBN8AInp95wj/view?usp=sharing" alt="TINIG Logo" className="mx-auto mb-6 h-32 w-auto rounded-lg shadow-md object-cover" onError={(e) => { e.target.onerror = null; e.target.src="https://placehold.co/150x150/007BFF/FFFFFF?text=Logo"; }} />
         <h1 className="text-3xl font-bold text-gray-800 mb-2">TINIG</h1>
-        <p className="text-gray-600 mb-8 px-4">Truth, inclusion, narrative, integrity, and guidance...</p>
+        <p className="text-gray-600 mb-8 px-4">Truth, Inclusion, Narrative, Integrity, and Guidance</p>
         <div className="mb-8">
           <h2 className="text-lg font-medium text-gray-700 mb-3">Language</h2>
           <div className="flex justify-center space-x-3">
