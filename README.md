@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Project Structure 🏗️
 
+```
 public/
     ├── favicon.ico
     ├── index.html
@@ -95,7 +96,7 @@ package.json
 postcss.config.js
 README.md
 tailwind.config.js
-
+```
 -----
 
 ## Configuration ⚙️
