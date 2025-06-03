@@ -688,7 +688,7 @@ const FilingGuidancePage = ({ navigateTo }) => {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4 sm:p-0">
       <div className="bg-white shadow-xl rounded-lg w-full max-w-md">
-        <div className="p-4 sm:p-6 border-b border-gray-200 flex items-center"><button onClick={() => navigateTo('home')} className="text-blue-600 hover:text-blue-800 mr-4"><ChevronLeft size={24} /></button><h2 className="text-xl sm:text-2xl font-semibold text-gray-800">Filing a Case</h2></div>
+        <div className="p-4 sm:p-6 border-b border-gray-200 flex items-center"><button onClick={() => navigateTo('home')} className="text-blue-600 hover:text-blue-800 mr-4"><ChevronLeft size={24} /></button><h2 className="text-xl sm:text-2xl font-semibold text-gray-800">File or Submit a Case</h2></div>
         <div className="p-4 sm:p-6"><p className="text-sm text-blue-600 font-medium mb-2">Step {step} of {totalSteps}</p><div className="w-full bg-gray-200 rounded-full h-2.5"><div className="bg-blue-600 h-2.5 rounded-full" style={{ width: `${(step / totalSteps) * 100}%` }}></div></div></div>
         <div className="p-4 sm:p-6">
           {step === 1 && (<div><h3 className="text-lg sm:text-xl font-semibold text-gray-700 mb-3">Gather Necessary Documents</h3><p className="text-gray-600 text-sm mb-4">Before filing...</p>
