@@ -35,7 +35,7 @@ const documentTemplates = [
 
 // Helper function to call Gemini API (remains the same)
 const callGeminiApi = async (prompt, chatHistory = []) => {
-  const apiKey = ""; 
+  const apiKey = process.env.REACT_APP_GEMINI_API_KEY; 
   const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
   let contents = [...chatHistory, { role: "user", parts: [{ text: prompt }] }];
   const payload = { contents };
