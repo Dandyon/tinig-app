@@ -1142,7 +1142,7 @@ const FilingGuidancePage = ({ navigateTo, setShowCaseFormModal }) => {
                 <Map size={14} className="mr-1"/> Open Directory
               </button>
               <div className="bg-gray-200 h-40 rounded-lg flex items-center justify-center overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1590954256050-16f50003c8e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWJzdHJhY3QlMjBjaXR5JTIwbWFwfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&h=150&q=80" alt="Map Placeholder" className="rounded-md object-cover w-full h-full"/>
+                <img src="https://www.hatchwise.com/wp-content/uploads/2022/08/google-maps-satellite-1024x469.png" alt="Map Placeholder" className="rounded-md object-cover w-full h-full"/>
               </div>
             </div>
           )}
