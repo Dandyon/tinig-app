@@ -1,6 +1,14 @@
+
 # TINIG - A Voice for the Unheard 🗣️
 
 TINIG aims to empower marginalized and underserved communities in the Philippines by providing accessible, timely, and affordable legal assistance. Our platform addresses the critical gaps in legal aid services, ensuring that justice is not a privilege but a right for everyone. This initiative directly contributes to **SDG 16 (Peace, Justice, and Strong Institutions)** by promoting access to justice and **SDG 11 (Sustainable Cities and Communities)** by fostering inclusive and safe communities.
+
+TINIG App is a collaborative project developed as part of our coursework. It showcases our team’s effort in applying core programming concepts using to build practical solutions.
+
+This project was developed in collaboration with my teammates. The original repository can be found here: jamiekimjavier/tinig-app
+
+📌 Notes
+This repository serves as a mirrored copy to document my personal contributions and learning experience, while also giving full credit to the collaborative nature of the work.
 
 -----
 
