@@ -5,7 +5,7 @@ TINIG aims to empower marginalized and underserved communities in the Philippine
 
 TINIG App is a collaborative project developed as part of our coursework. It showcases our team’s effort in applying core programming concepts using to build practical solutions.
 
-This project was developed in collaboration with my teammates. The original repository can be found here: jamiekimjavier/tinig-app
+This project was developed in collaboration with my teammates. The original repository can be found here: [jamiekimjavier/tinig-app](https://github.com/jamiekimjavier/tinig-app)
 
 📌 Notes
 This repository serves as a mirrored copy to document my personal contributions and learning experience, while also giving full credit to the collaborative nature of the work.
